@@ -1,7 +1,7 @@
 import tkinter as tk
 import tkinter.font as font
 import pyautogui
-from functools import partial
+from functools import partial 
 
 
 
